@@ -13,7 +13,7 @@
 - ✅ DSA Simple Algorithm
 
 ## 📗 Arrays
-- ⬜ DSA Arrays
+- 🟡 DSA Arrays
 - ⬜ DSA Bubble Sort
 - ⬜ DSA Selection Sort
 - ⬜ DSA Insertion Sort
