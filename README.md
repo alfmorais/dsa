@@ -13,9 +13,9 @@
 - ✅ DSA Simple Algorithm
 
 ## 📗 Arrays
-- 🟡 DSA Arrays
-- ⬜ DSA Bubble Sort
-- ⬜ DSA Selection Sort
+- ✅ DSA Arrays
+- ✅ DSA Bubble Sort
+- ✅ DSA Selection Sort
 - ⬜ DSA Insertion Sort
 - ⬜ DSA Quick Sort
 - ⬜ DSA Counting Sort
