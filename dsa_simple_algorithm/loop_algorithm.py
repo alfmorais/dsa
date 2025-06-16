@@ -1,6 +1,7 @@
 """
 An implementation of the Fibonacci algorithm above using a for loop.
 """
+
 previous_two = 0
 previous_one = 1
 

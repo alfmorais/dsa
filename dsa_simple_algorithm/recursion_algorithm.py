@@ -1,9 +1,11 @@
 """
 An implementation of the Fibonacci algorithm above using recursion.
 """
+
 previous_two = 0
 previous_one = 1
 count = 2
+
 
 def fibonacci(previous_one: int, previous_two: int):
     global count
@@ -17,5 +19,6 @@ def fibonacci(previous_one: int, previous_two: int):
         fibonacci(previous_one, previous_two)
     else:
         return
+
 
 fibonacci(previous_one, previous_two)

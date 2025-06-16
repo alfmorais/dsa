@@ -2,6 +2,7 @@
 Finding the n th Fibonacci number using recursion.
 """
 
+
 def fibonacci(number: int):
     if number <= 1:
         return number
